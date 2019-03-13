@@ -25,14 +25,14 @@
   },
   "homepage": "https://github.com/ember-fastboot/fastboot-app-server#readme",
   "dependencies": {
-    "basic-auth": "^2.0.0",
-    "chalk": "^2.0.1",
-    "compression": "^1.6.2",
-    "express": "^4.13.3",
-    "fastboot": "^1.1.4-beta.1",
-    "fastboot-express-middleware": "^1.1.1",
+    "basic-auth": "^2.0.1",
+    "chalk": "^2.4.2",
+    "compression": "^1.7.3",
+    "express": "^4.16.4",
+    "fastboot": "^2.0.1",
+    "fastboot-express-middleware": "^1.2.0",
     "fs-promise": "^2.0.3",
-    "request": "^2.81.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
